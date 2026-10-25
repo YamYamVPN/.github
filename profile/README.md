@@ -2,6 +2,8 @@
 
 **Free Android VPN with no signup, modern connection technologies, split tunneling, and privacy-focused features.**
 
+<a href="https://play.google.com/store/apps/details?id=com.yamyam.vpn"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="220"></a>
+
 [Official Website](https://yamyamvpn.top/) · [Download for Android](https://yamyamvpn.top/download/) · [Privacy Policy](https://yamyamvpn.top/privacy/) · [VPN Guides & Articles](https://yamyamvpn.top/blog/)
 
 ---
